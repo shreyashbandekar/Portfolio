@@ -63,7 +63,7 @@ You can view my resume [here](#) (link to your resume file).
 
 ## Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Connect with Shreyash Bandekar - Cybersecurity Enthusiast](https://www.linkedin.com/in/shreyash-bandekar)
+- **Email:** [Reach out to Shreyash](mailto:shreyash.bandekar2015@gmail.com)
 
 Feel free to reach out if you have any questions or opportunities.
