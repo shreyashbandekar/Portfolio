@@ -15,7 +15,7 @@ Welcome to my cybersecurity portfolio. This repository contains a collection of 
 - [Resume](#resume)
 - [Contact](#contact)
 
-## 👋 About Me
+## 👋About Me
 
 Hello! I'm a **passionate cybersecurity professional** with a deep-seated love for protecting the digital world 🌐. With a strong foundation in security principles and practices 🔐, I'm dedicated to safeguarding systems and data through continuous learning 📚 and hands-on experience 🛠️.
 
