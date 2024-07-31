@@ -30,7 +30,7 @@ Let's connect and make the digital world a safer place together! 💬
 
 ## Projects
 
-### Botium Toys Security Audit
+## Botium Toys Security Audit
 
 ## Overview
 This repository contains the materials and results from a comprehensive internal security audit conducted for Botium Toys, a small U.S. business with growing online and international operations. The audit focused on identifying vulnerabilities, assessing risks, and ensuring compliance with industry standards and regulations.
