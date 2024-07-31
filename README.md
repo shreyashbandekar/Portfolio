@@ -15,9 +15,18 @@ Welcome to my cybersecurity portfolio. This repository contains a collection of 
 - [Resume](#resume)
 - [Contact](#contact)
 
-## About Me
+## 👋 About Me
 
-I am a passionate cybersecurity professional with a strong foundation in security principles and practices. I am dedicated to protecting systems and data through continuous learning and practical experience.
+Hello! I'm a **passionate cybersecurity professional** with a deep-seated love for protecting the digital world 🌐. With a strong foundation in security principles and practices 🔐, I'm dedicated to safeguarding systems and data through continuous learning 📚 and hands-on experience 🛠️.
+
+Cybersecurity isn't just a career for me—it's a calling. I'm constantly exploring the latest trends and technologies 🚀, striving to stay one step ahead of emerging threats. Whether it's conducting thorough security audits 📝, responding to incidents with precision ⚡, or developing custom tools to enhance security processes 🛠️, I tackle each challenge with enthusiasm and a commitment to excellence 🌟.
+
+I believe in the power of teamwork and communication 🤝, working closely with others to build a culture of security awareness and resilience 💪. My mission is to not only defend against today's threats but to anticipate and prepare for the challenges of tomorrow 🌅.
+
+As the digital landscape continues to evolve, so does my dedication to learning and adapting 📈. I'm on a journey to make a meaningful impact in the world of cybersecurity, one secure system at a time 🔒.
+
+Let's connect and make the digital world a safer place together! 💬
+
 
 ## Projects
 
@@ -95,7 +104,7 @@ The security audit was conducted to evaluate Botium Toys' security posture, focu
 
 ## Resume
 
-You can view my resume [here](#) (link to your resume file).
+You can view my resume [here](https://drive.google.com/file/d/1qm2JSc7RqAA1f325Jv8478VDcaVMtaEC/view?usp=sharing) .
 
 ## Contact
 
