@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio. This repository contains a collection of 
 
 ## Table of Contents
 
-- [About Me](#👋-About-Me)
+- [About Me](#About-Me)
 - [Projects](#projects)
   - [Botium Toys Security Audit](#Botium-Toys-Security-Audit)
   - [Network Analysis](#network-analysis)
